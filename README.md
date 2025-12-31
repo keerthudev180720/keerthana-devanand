@@ -63,7 +63,7 @@ Processed over 500,000 Amazon reviews to extract customer behavior patterns and 
 
 ---
 
-### 2. [E-commerce Price Intelligence Pipeline](link-to-repo)
+### 2. [E-commerce Price Intelligence Pipeline](https://github.com/keerthudev180720/ecommerce_intelligence)
 **Tech Stack:** Apache Airflow, MinIO/S3, PostgreSQL, Tableau, Pandas
 
 Automated competitor price tracking system with daily API ingestion and real-time analytics.
@@ -78,7 +78,7 @@ Automated competitor price tracking system with daily API ingestion and real-tim
 
 ---
 
-### 3. [Serverless Data Pipeline on AWS](link-to-repo)
+### 3. [Serverless Data Pipeline on AWS](https://github.com/clouderity/lab-5-keerthudev180720)
 **Tech Stack:** AWS Glue, S3, Athena, CloudFormation, Shell Scripting
 
 Infrastructure-as-code approach to building a fully serverless data processing platform.
